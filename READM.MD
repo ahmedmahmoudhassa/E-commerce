@@ -1,6 +1,6 @@
 # E-commerce Database Design & SQL Optimization
 
-This README documents the complete solution for the **Practical Database Design** assignment related to designing an e-commerce database, inserting large-scale data, writing analytical queries, and optimizing them .
+This README documents the complete solution for the **Practical Database Design** assignment related to designing an e-commerce database, inserting large-scale data, writing analytical queries, and optimizing them.
 
 ---
 
